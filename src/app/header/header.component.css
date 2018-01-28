@@ -1,0 +1,13 @@
+.navbar{
+    margin-bottom:0px;
+    background-color: #370707;
+}
+.navbar-brand{
+    width:70;
+    height:40;
+}
+
+.navbar-inverse .navbar-nav>.active>a
+{
+background-color: #370707;
+}

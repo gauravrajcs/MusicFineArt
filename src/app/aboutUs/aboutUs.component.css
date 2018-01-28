@@ -1,0 +1,13 @@
+.navbar{
+    margin-bottom:0px;
+    background-color: #370707;
+    font-size: 200%;
+    margin-bottom: 10px;
+}
+/*.navbar-nav>li{
+margin-left:350%;
+}*/
+.navbar-brand{
+    width:70;
+    height:40;
+}
