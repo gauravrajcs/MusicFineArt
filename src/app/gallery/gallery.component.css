@@ -1,7 +1,8 @@
 .clear { clear: both; }
 .navbar{
     margin-bottom:0px;
-    background-color: #370707;
+    background-color: e3d79b;
+    border-color: e3d79b;
     font-size: 200%;
     margin-bottom: 10px;
 }
