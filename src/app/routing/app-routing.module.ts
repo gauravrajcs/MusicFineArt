@@ -12,7 +12,7 @@ import { EventsComponent } from '../events/events.component';
 const routes: Routes = [
     { path: '', redirectTo: '/home', pathMatch: 'full' },
     {path: 'home',component:HomeComponent },
-    {path: 'home/aboutUs',component:AboutUsComponent },
+    {path: 'aboutUs',component:AboutUsComponent },
     {path: 'events',component:EventsComponent },
     {path: 'gallery',component:GalleryComponent },
     {path: 'contactUs',component:ContactUsComponent }
