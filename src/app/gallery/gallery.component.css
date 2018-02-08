@@ -1,18 +1,4 @@
 .clear { clear: both; }
-.navbar{
-    margin-bottom:0px;
-    background-color: e3d79b;
-    border-color: e3d79b;
-    font-size: 200%;
-    margin-bottom: 10px;
-}
-/*.navbar-nav>li{
-margin-left:350%;
-}*/
-.navbar-brand{
-    width:70;
-    height:40;
-}
 .carousel-control{
     left:279px;
 }

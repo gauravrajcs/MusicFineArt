@@ -1,20 +1,5 @@
-.navbar{
-    margin-bottom:0px;
-    background-color: #370707;
-    font-size: 200%;
-    margin-bottom: 10px;
+.contact{
+    margin-top: 150px;
+    margin-left: 400px;
+    font-size: 25px;
 }
-/*.navbar-nav>li{
-margin-left:350%;
-}*/
-.navbar-brand{
-    width:70;
-    height:40;
-}
-h2 {
-    margin-left: 20px;
-}
-
-/*.preview{
-background-image: url("../assets/images/phone.png");
-}*/

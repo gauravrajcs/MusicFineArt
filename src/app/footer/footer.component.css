@@ -1,3 +1,23 @@
+/*.clear { clear: both; }*/
+
+.box{
+     position: relative;
+}
+
+.copyright{
+    font-weight:10;
+    color:#370707;
+    text-align: right;
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+
+
+
+
+
 .social:hover {
      -webkit-transform: scale(1.1);
      -moz-transform: scale(1.1);
