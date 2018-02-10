@@ -11,9 +11,7 @@
 {
 background-color: #770101;
 }
-h3{
-    margin-left: 90px;
-    color: white;
-    margin-top: 30px;
-    font-family: algerian;
+.navbar-center{
+    margin-left:350px;
+    font-size:20px;
 }

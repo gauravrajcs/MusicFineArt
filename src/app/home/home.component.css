@@ -1,2 +1,14 @@
 /*.clear { clear: both; }*/
+.row{
+    margin-left:250px;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+h3{
+    color:#770101;
+    font-size: 50px;
+    margin-left: 0px;
+    font-family: algerian;
+}
+
 
