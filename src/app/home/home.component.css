@@ -1,4 +1,4 @@
-/*.clear { clear: both; }*/
+.clear { clear: both; }
 .row{
     margin-left:250px;
     margin-top: 10px;
@@ -11,4 +11,14 @@ h3{
     font-family: algerian;
 }
 
-
+@media (min-width: 768px) {
+  .navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+  }
+}
+.navbar{
+    margin-bottom: 60px;
+    margin-top: 10px;
+}
